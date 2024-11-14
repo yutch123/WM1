@@ -1,0 +1,6 @@
+Process: taskmgr.exe started at 19:35:50
+Process: cmd started at 19:36:17
+Process: services.msc started at 19:36:30
+Process: taskmgr.exe started at 19:51:39
+Process: cmd started at 19:51:48
+Process: devmgmt.msc started at 17:33:32
